@@ -1,0 +1,16 @@
+//
+//  SFToLF-Prefix.pch
+//  SFToLF
+//
+//  Created by Harshal Joshi on 12/28/15.
+//  Copyright © 2015 Indi-Joshi. All rights reserved.
+//
+
+#ifndef SFToLF_Prefix_pch
+#define SFToLF_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "AFNetworking.h"
+#import "MBProgressHUD.h"
+#endif /* SFToLF_Prefix_pch */
